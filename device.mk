@@ -83,6 +83,9 @@ PRODUCT_PACKAGES += \
     android.hardware.health@2.1-impl.recovery \
     android.hardware.health@2.1-service
 
+# IMS
+$(call inherit-product, hardware/lineage/compat/frameworks/compat.mk)
+
 # Init
 PRODUCT_PACKAGES += \
     fstab.mt6785 \
