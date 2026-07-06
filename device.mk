@@ -238,7 +238,7 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm
 
 # Properties
-include $(LOCAL_PATH)/vendor_prop.mk
+include hardware/mediatek/configs/properties/vendor_logtag.mk
 PRODUCT_COMPATIBLE_PROPERTY_OVERRIDE := true
 
 # Protobuf
