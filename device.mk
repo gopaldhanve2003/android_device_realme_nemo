@@ -317,6 +317,7 @@ PRODUCT_PACKAGES += \
     WifiOverlayNemo \
     hostapd \
     libwifi-hal-wrapper \
+    wlan_assistant \
     wpa_supplicant \
     android.hardware.wifi-service
 
