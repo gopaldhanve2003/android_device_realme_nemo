@@ -1,7 +1,7 @@
 From 2dbc9ec2816233fa135ccd7cffb4724928bb08b2 Mon Sep 17 00:00:00 2001
 From: ironydelerium <42721860+ironydelerium@users.noreply.github.com>
 Date: Fri, 31 Dec 2021 02:20:28 -0800
-Subject: [PATCH 1/9] ImsRILAdapter: Add writeRilSendSms method
+Subject: [PATCH 1/8] ImsRILAdapter: Add writeRilSendSms method
 
 Reintroduce 'public void TelephonyMetrics.writeRilSendSms(int, int, int, int)'
 
