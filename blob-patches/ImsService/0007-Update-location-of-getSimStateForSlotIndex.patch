@@ -1,7 +1,7 @@
 From 564bb8bab16161efa20ad47f8db7b2be6aa47acb Mon Sep 17 00:00:00 2001
 From: SamarV-121 <samar@samarv121.dev>
 Date: Thu, 3 Aug 2023 13:16:15 +0530
-Subject: [PATCH 7/9] Update location of getSimStateForSlotIndex
+Subject: [PATCH 7/8] Update location of getSimStateForSlotIndex
 
 https://android-review.googlesource.com/q/topic:%22getSimStateForSlotIndex%22
 
