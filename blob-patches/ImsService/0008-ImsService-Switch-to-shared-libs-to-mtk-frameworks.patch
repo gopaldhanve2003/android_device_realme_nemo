@@ -1,7 +1,7 @@
 From 7d301a1d6a16b2141c1f62c167c775d1faf8563a Mon Sep 17 00:00:00 2001
 From: Erfan Abdi <erfangplus@gmail.com>
 Date: Wed, 31 Jan 2024 17:22:40 +0330
-Subject: [PATCH 8/9] ImsService: Switch to shared libs to mtk frameworks
+Subject: [PATCH 8/8] ImsService: Switch to shared libs to mtk frameworks
 
 Signed-off-by: Saikrishna1504 <saikrishna26918@gmail.com>
 ---

@@ -1,7 +1,7 @@
 From d21eb1ab41b57353fe7026dedc9d903675adcf61 Mon Sep 17 00:00:00 2001
 From: SamarV-121 <samarvispute121@pm.me>
 Date: Thu, 7 Apr 2022 09:04:40 +0530
-Subject: [PATCH 2/9] MtkImsSmsImpl: Replace newFromCDS() with createFromPdu()
+Subject: [PATCH 2/8] MtkImsSmsImpl: Replace newFromCDS() with createFromPdu()
 
  * https://github.com/LineageOS/android_frameworks_base/commit/c483107ac7dddc987998fdb5733c6a633e514b70
 

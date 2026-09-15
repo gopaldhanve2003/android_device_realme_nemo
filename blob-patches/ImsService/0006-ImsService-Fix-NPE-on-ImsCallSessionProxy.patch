@@ -1,7 +1,7 @@
 From 7666e1797b4631b7e3f360295abad7fb14cdd358 Mon Sep 17 00:00:00 2001
 From: SamarV-121 <samarvispute121@pm.me>
 Date: Sun, 29 Jan 2023 12:38:17 +0530
-Subject: [PATCH 6/9] ImsService: Fix NPE on ImsCallSessionProxy
+Subject: [PATCH 6/8] ImsService: Fix NPE on ImsCallSessionProxy
 
 01-29 11:52:18.220  6741  6741 E AndroidRuntime: FATAL EXCEPTION: main
 01-29 11:52:18.220  6741  6741 E AndroidRuntime: Process: com.mediatek.ims, PID: 6741
