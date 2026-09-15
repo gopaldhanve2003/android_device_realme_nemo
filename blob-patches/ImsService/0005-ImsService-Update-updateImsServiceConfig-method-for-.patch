@@ -1,7 +1,7 @@
 From 5df68f38cdebddfabc25b7bb268b087602819bf6 Mon Sep 17 00:00:00 2001
 From: bengris32 <bengris32@protonmail.ch>
 Date: Wed, 21 Sep 2022 20:12:47 +0100
-Subject: [PATCH 5/8] ImsService: Update `updateImsServiceConfig` method for S
+Subject: [PATCH 5/7] ImsService: Update `updateImsServiceConfig` method for S
 
 Signed-off-by: bengris32 <bengris32@protonmail.ch>
 ---
