@@ -294,8 +294,7 @@ $(call soong_config_set_bool,mediatek_gadget,use_custom_usb_gadget_rc,true)
 
 # VNDK
 PRODUCT_PACKAGES += \
-    libbase_shim \
-    libui-v32
+    libbase_shim
 
 # Vibrator
 PRODUCT_PACKAGES += \
